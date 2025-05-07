@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @OmwansaObed
-- 👀 I’m interested in web develpment and designing and i use javascript in most of my lines of codes
-- 🌱 I’m currently learning kotlin for android app developemnt along other frameworks such as typescript for type safety
-- 💞️ I’m looking to collaborate on various platfroms and open for any collaborations that are available
-- 📫 How to reach me use my email
-    📞0794909991
-    📩obed9to5@gmail.com 
-- 😄 Pronouns: My pronouns are const and stency i.e (consistency)
-- ⚡ Fun fact: A Passionate 👨‍⚕️nurse who has decided tech is the way and the future and now going fo becoming a successful freelancer with good understandng of code.
+👋 Hi, I’m @OmwansaObed
+👀 Passionate about web development, UI/UX design, and building real-world solutions with code
+💻 I mostly work with JavaScript, React, Node.js, MySQL, and I’m exploring TypeScript for better type safety
+📱 Currently learning Kotlin for Android development and integrating mobile features into my web-first mindset
+💡 Exploring AI integration, real-time communication with payment systems like MPesa & Stripe
+🧠 I learn by building, not just reading – from rent management systems to doctor booking and car leasing platforms
+💞️ Open to collaboration on impactful projects, especially in healthtech, edtech, or systems automation
+📫 Reach me:
+📧 obed9to5@gmail.com
+📞 +254 794 909 991
+💬 WhatsApp
+
+😄 Pronouns: const and stency (because consistency is key)
+⚡ Fun fact: I'm a trained nurse who's pivoted to tech entrepreneurship, using design thinking and code to create meaningful solutions — one app at a time.
 
 <!---
 OmwansaObed/OmwansaObed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
